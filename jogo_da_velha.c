@@ -23,8 +23,13 @@ int main(){
     printf("  0  1  2  /n");
     
     printf("0 %c | %c | %c /n", tabuleiro[0][0], tabuleiro[0][1], tabuleiro[0][2]);
-    printf("")
+    printf(" ---|---|--- /n");
 
-    return  0;
+    printf("1 %c | %c | %c /n", tabuleiro[1][0], tabuleiro[1][1], tabuleiro[1][2]);
+    printf(" ---|---|--- /n");
+
+    printf("2 %c | %c | %c /n", tabuleiro[2][0], tabuleiro[2][1], tabuleiro[2][2]);
+    printf(" ---|---|--- /n");
+
+    return 0;
 }
-
