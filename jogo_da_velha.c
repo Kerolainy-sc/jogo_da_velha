@@ -25,6 +25,6 @@ int main(){
     printf("0 %c | %c | %c /n", tabuleiro[0][0], tabuleiro[0][1], tabuleiro[0][2]);
     printf("")
 
-    return    0;
+    return  0;
 }
 
